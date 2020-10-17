@@ -5,7 +5,7 @@ Dicussion with asynchrous JavaScript API.
 * Promise (ES6)
 * async function /await (ES2017)
 
-# HTTP reuest
+# HTTP request
 * XMLHttpRequest
 * jQuery - ajax
 * Fetch API (Web APIs)
