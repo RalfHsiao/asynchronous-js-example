@@ -1,0 +1,23 @@
+{
+  "name": "asynchronous-js-example",
+  "version": "1.0.0",
+  "description": "Dicussion with asynchrous JavaScript API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RalfHsiao/asynchronous-js-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RalfHsiao/asynchronous-js-example/issues"
+  },
+  "homepage": "https://github.com/RalfHsiao/asynchronous-js-example#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jsdom": "^16.4.0"
+  }
+}
